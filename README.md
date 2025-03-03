@@ -13,7 +13,7 @@ I'm a passionate **.NET developer in training** with a focus on **full-stack dev
 - **Frontend Development** – HTML, CSS, JavaScript  
 
 ### 📫 How to Reach Me  
-- 💼 [LinkedIn](www.linkedin.com/in/tova-dalin-79810b1a2)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tova-dalin-79810b1a2)
 - 📧 Email: tova.dalin@hotmail.com  
 
 ### ⚡ Fun Fact  
