@@ -6,7 +6,7 @@ I'm currently studying **Systemutvecklare .NET med AI-kompetens** at Edugrade, a
 ### 📚 What I'm Learning  
 - **Backend Development** – C#, .NET, ASP.NET Core, Entity Framework Core  
 - **Frontend Development** – HTML, CSS, JavaScript  
-- **Databases** – SQL, LINQ, EF Core  
+- **Databases** – Microsoft SQL Server, SQL, LINQ, EF Core  
 - **Software Architecture** – SOLID Principles, Design Patterns  
 
 ### 🔧 Projects  
