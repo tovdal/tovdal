@@ -10,7 +10,7 @@ I'm currently studying **Systemutvecklare .NET med AI-kompetens** at Edugrade, a
 - **Software Architecture** – SOLID Principles, Design Patterns  
 
 ### 🔧 Projects  
-🚀 Currently building a **Razor Pages web app** in ASP.NET to create a **Bank Application**.  
+🚀 Currently building a **Razor Pages web app** in ASP.NET to create a **Ping Pong Application** with some classmates, and building a **Console App** with multiple projects in it.  
 
 ### 📫 How to Reach Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tova-dalin-79810b1a2)  
